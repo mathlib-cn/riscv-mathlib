@@ -2,7 +2,7 @@
 High performance mathematics library for RISC-V platforms
 
 ## Current Progress
- - sin & cos are done for double precision floating point number
+ - some typical functions are done for double precision floating point number
  - other functions will be updated soon
  
  ## How To Use
