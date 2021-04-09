@@ -987,7 +987,7 @@ TRIG_RDX_TZ11:
 	sd s8,80(sp)
 	li s8,131072
 	sext.w s3,s8
-	ld s8,160(sp)
+	ld s8,80(sp)
 	fmv.d.x fs6,a0
 	li a0,-1
 	sd s8,80(sp)
