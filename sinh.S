@@ -709,7 +709,7 @@ L$2:
 	sd s8,64(sp)
 	li s8,262144
 	sext.w t5,s8
-	ld s8,144(sp)
+	ld s8,64(sp)
 	fld ft0,8(sp)
 	ld ra,0(sp)
 	addi t5,t5,-256
